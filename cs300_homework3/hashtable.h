@@ -1,8 +1,0 @@
-//
-// Created by space on 12.12.2024.
-//
-
-#ifndef CS300_HOMEWORK3_HASHTABLE_H
-#define CS300_HOMEWORK3_HASHTABLE_H
-
-#endif //CS300_HOMEWORK3_HASHTABLE_H
